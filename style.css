@@ -1,0 +1,21 @@
+
+@font-face{
+    font-family: "vazir";
+    src: url(./font/Vazir-code-thin.eot);
+    src: url(./font/Vazir-Code-Hack.eot) format("embedded-opentype");
+    src: url(./font/Vazir-Code-Hack.woff2) format("woff2");
+    src: url(./font/Vazir-Code-Hack.woff) format("woff");
+    src: url(./font/Vazir-Code-Hack.ttf) format("truetype");
+}
+.header{
+
+    width:70%;
+    height: 50%;
+    background: url(./1.jpg.png) fixed 40% 80% /cover;
+    padding: 50px;
+    box-sizing: border-box;
+    height: 400px;
+    color: #fff;
+    font-family:vazir;
+}
+
